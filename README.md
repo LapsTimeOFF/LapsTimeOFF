@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a game
 - 🏎 And I love F1
+- And now I have the covid !
 
 <!---
 LapsTimeOFF/LapsTimeOFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
