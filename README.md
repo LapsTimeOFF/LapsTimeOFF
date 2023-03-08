@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! I’m Quentin I’m from France and I’m mod and plugin developer for [MultiViewer](https://multiviewer.app/)
+Hi ! I’m Quentin I’m from France and I’m a Steward and plugin developer for [MultiViewer](https://multiviewer.app/)
 
 
 # 💻 Tech Stack:
