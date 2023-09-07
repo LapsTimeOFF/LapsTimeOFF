@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **I think I code well 💀**
 
+- Flex about being a Bun contributor, but just fixed a broken link in the README![image](https://github.com/LapsTimeOFF/LapsTimeOFF/assets/39061148/79759a70-36ae-4c9a-8864-7f1473f49e97)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lapstime_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lapstime_" height="30" width="40" /></a>
